@@ -1,3 +1,8 @@
+
+create relm
+create user
+assign role to user
+
 🛠️ 1. Assign Roles via realm-management Client
 Go to Keycloak Admin Console:
 
